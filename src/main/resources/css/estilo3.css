@@ -1,0 +1,52 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 30 may 2022, 22:55:56
+    Author     : casqu
+*/
+
+#panel { -fx-background-color: #660099; }
+
+.button { 
+    -fx-font-size: 15px; 
+    -fx-background-color: #FF3399;
+}
+/* Estilo para botón con ID boton1 */
+#boton1 { 
+        -fx-background-color: #02CF08;
+         -fx-border-color: #FFFFFF;
+         -fx-border-width: 2;
+         -fx-text-fill: #FFCC00;
+         -fx-font-family: "Comic Sans MS";
+         -fx-font-style: italic;
+         -fx-font-size: 15px;
+         -fx-background-radius: 10 10 10 10;
+         -fx-border-radius: 10 10 10 10;
+    
+}
+/* Estilo para botón con ID boton2 */
+#boton2 { 
+    -fx-background-color: #E6FD74;
+         -fx-border-color: #FFFFFF;
+         -fx-border-width: 2;
+         -fx-text-fill: #FF3399;
+         -fx-font-family: "Georgia";
+         -fx-font-style: italic;
+         -fx-font-size: 15px;
+         -fx-background-radius: 10 10 10 10;
+         -fx-border-radius: 10 10 10 10;
+}
+/* Estilo para botón con ID boton3 */
+#boton3 { 
+     -fx-background-color: #008287;
+         -fx-border-color: #FFFFFF;
+         -fx-border-width: 2;
+         -fx-text-fill: #FFFFFF;
+         -fx-font-family: "Times New Roman";
+         -fx-font-style: italic;
+         -fx-font-size: 15px;
+         -fx-background-radius: 10 10 10 10;
+         -fx-border-radius: 10 10 10 10;
+}
